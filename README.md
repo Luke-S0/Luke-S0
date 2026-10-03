@@ -30,5 +30,5 @@ I've tried some OSes and virtual machines, although I don't regularly do this. I
 My main portfolio of projects.
 
 
-**[CS Study Hub]**
+**[CS Study Hub](https://luke-s0.github.io/study/)*
 Study resources for GCSE / A-Level CS. Work in progress.
