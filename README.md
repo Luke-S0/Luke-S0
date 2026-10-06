@@ -25,10 +25,4 @@ I've tried some OSes and virtual machines, although I don't regularly do this. I
 
 ---
 ## Projects
-
-**[View project portfolio](https://luke-s0.github.io/projects)**
-My main portfolio of projects.
-
-
-**[CS Study Hub](https://luke-s0.github.io/study/)*
-Study resources for GCSE / A-Level CS. Work in progress.
+Go to https://luke-s0.github.io/
